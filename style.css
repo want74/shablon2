@@ -1,0 +1,40 @@
+.One {
+	
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.block {
+	width:300px;
+	height: 500px;
+	text-align: center;
+}
+img {
+	width: 100px;
+	height: 100px
+}
+body {
+	font-family: arial;
+	
+}
+.m {
+	color: grey;
+	font-weight: 600
+}
+.e {
+	color: red;
+	margin-top: -20px;
+	font-weight: 600
+}
+
+.d {
+	display: flex;
+}
+.h {
+	height: 50px;
+	margin-left: 60px
+}
+.j {
+	font-weight: 600;
+	font-size: 30px;
+	color: grey
+}
